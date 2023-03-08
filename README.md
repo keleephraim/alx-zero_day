@@ -1,3 +1,3 @@
 My first readme
-create vhnages in my readme 
+update README.md file
 
