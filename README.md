@@ -1,2 +1,3 @@
 My first readme
-progressive work done
+editted README.md 
+
